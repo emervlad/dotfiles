@@ -1,0 +1,13 @@
+set tabsize 4
+set tabstospaces
+
+set linenumbers
+
+# COLOR_1 is the text, COLOR_2 is the background. Supported colors are white, black, blue, green, red, cyan, yellow, magenta
+#set titlecolor COLOR_1,COLOR_2
+set numbercolor yellow
+
+#unbind M-S all
+#bind M-S prevword main
+#unbind M-F all
+#bind M-F nextword main
